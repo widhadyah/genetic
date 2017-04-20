@@ -36,7 +36,7 @@ setup(
     keywords=("genetic algorithm, multiprocessing, numerical optimisation,"
               "stochastic optimisation"),
 
-    packages=find_packages("./"),
+    packages=find_packages("/"),
 
     install_requires=["numpy>=1.11.0",
                       "scipy>=0.17.0",
